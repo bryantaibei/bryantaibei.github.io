@@ -1,0 +1,15 @@
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Writing database to /Users/bryan/.Trash/bryantaibei.github.io/db.json","time":"2019-07-11T02:31:42.858Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Hexo version: \u001b[35m3.9.0\u001b[39m","time":"2019-07-11T02:31:42.870Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Working directory: \u001b[35m~/.Trash/bryantaibei.github.io/\u001b[39m","time":"2019-07-11T02:31:42.871Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Config loaded: \u001b[35m~/.Trash/bryantaibei.github.io/_config.yml\u001b[39m","time":"2019-07-11T02:31:42.926Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2019-07-11T02:31:42.942Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2019-07-11T02:31:42.944Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2019-07-11T02:31:42.945Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2019-07-11T02:31:42.946Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2019-07-11T02:31:42.947Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2019-07-11T02:31:42.951Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2019-07-11T02:31:42.954Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2019-07-11T02:31:42.988Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2019-07-11T02:31:42.989Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Script loaded: \u001b[35mthemes/landscape/scripts/fancybox.js\u001b[39m","time":"2019-07-11T02:31:42.991Z","v":0}
+{"name":"hexo","hostname":"localhost","pid":15328,"level":20,"msg":"Database saved","time":"2019-07-11T02:31:42.996Z","v":0}
