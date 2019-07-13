@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: bryantai96@gmail.com
 description: "与你一起探索更大的世界 | 台北 UX Designer | 这里是台北的个人网站。"
 keyword: "台北, Bryan Tai, 台北的博客, Bryan Blog, 博客, 个人网站, 设计"
-url: "https://imtaibei.com"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
