@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Bei Tai (Bryan)
+  site_title: Bryan Blog | 台北的博客
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -33,6 +33,7 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  linkedin_url: 'https://www.linkedin.com/in/bryantai96/'
   facebook_url: ''
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/bryan_tai_96/'
@@ -58,7 +59,6 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/bryantai96/'
 
 color_settings:
   background_color: '#ffffff'
