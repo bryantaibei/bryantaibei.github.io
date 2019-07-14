@@ -12,5 +12,4 @@ featured_image: '/images/portfolio/2015-10-29-IllustratorLowPoly/cover.png'
 
 This is my Illustrator assignment of lowpoly artwork. 
 
-Bryan Tai
-09/27/2015                                                                                  
+Bryan Tai                                                                                
