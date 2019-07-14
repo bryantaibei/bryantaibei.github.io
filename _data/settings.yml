@@ -14,7 +14,8 @@ menu_settings:
       url: '/photography'
     - title: 'About'
       url: '/about'
-
+    - title: 'Contact'
+      url: '/contact'
 
 footer_settings:
   footer_tagline: Stay hungry, Stay foolish.
