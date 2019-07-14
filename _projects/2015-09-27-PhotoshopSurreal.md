@@ -6,7 +6,7 @@ description:
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/Portfolio/2015-09-27-PhotoshopSurreal/PhotoshopSurreal_BryanTai_Fall2015 300dpi.png)
+![](/images/portfolio/2015-09-27-PhotoshopSurreal/PhotoshopSurreal_BryanTai_Fall2015 300dpi.png)
 
 ## Brief Description
 
