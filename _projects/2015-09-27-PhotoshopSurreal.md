@@ -3,10 +3,10 @@ title: 'IMS259 Photoshop Surreal'
 subtitle: 'This is the first major class of my college life'
 date: 2015-09-27 00:00:00
 description: Using PhotoShop to create an art work that presenting a surreal topic.
-featured_image: '/images/portfolio/2015-09-27-PhotoshopSurreal/PhotoshopSurreal_BryanTai_Fall2015 72dpi.png'
+featured_image: '/images/portfolio/2015-09-27-PhotoshopSurreal/cover.png'
 ---
 
-![](/images/portfolio/2015-09-27-PhotoshopSurreal/PhotoshopSurreal_BryanTai_Fall2015 300dpi.png)
+![](/images/portfolio/2015-09-27-PhotoshopSurreal/artwork.png)
 
 ## Brief Description
 
