@@ -17,6 +17,9 @@ Mesh is on a mission to fuel conversations, facilitate collaboration, and help i
 ---
 
 ## Demo
+
+Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+
 <iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
