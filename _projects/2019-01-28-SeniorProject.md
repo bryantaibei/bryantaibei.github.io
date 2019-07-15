@@ -46,7 +46,7 @@ Making music is always one of my favorite things. For this project, I have made 
 
 ---
 
-<blockquote size = 5> “Making games is hard” <br>—— Shigeru Miyamoto</blockquote>
+<blockquote> “Making games is hard” <br>—— Shigeru Miyamoto</blockquote>
 
 ---
 
