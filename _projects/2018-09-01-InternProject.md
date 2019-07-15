@@ -37,11 +37,10 @@ During the semester, I individually designed the onboarding part of the applicat
 
 <div class="gallery" data-columns="4">
 	<img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingCommunity.png">
-    <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingProfile.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingDM.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingFeed.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingGroup.png">
-
+    <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingProfile.png">
     
     
 </div>
