@@ -175,34 +175,6 @@
 			}
 		}
 	}
-
-	&[data-columns="7"] {
-
-		.gallery__item {
-			width: 100%;
-		}
-
-		@include mq(tabletp) {
-
-			.gallery__item {
-				width: 100%;
-			}
-		}
-
-		@include mq(tabletl) {
-
-			.gallery__item {
-				width: 100%;
-			}
-		}
-
-		@include mq(laptop) {
-
-			.gallery__item {
-				width: 100%;
-			}
-		}
-	}
 }
 
 
