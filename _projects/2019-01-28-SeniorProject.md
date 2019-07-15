@@ -1,8 +1,8 @@
 ---
-title: 'Onboarding Page Design of MeshMyCampus'
+title: 'Digital Game Designed For Visually Impaired Players'
 subtitle: 'IMS452 Senior Project'
 date: 2019-01-28
-description: Build the onboarding screen of the instant communication application for startup company.
+description: For my graduation project, I designed and built a digital game for visually imparied players.
 featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
 ---
 
