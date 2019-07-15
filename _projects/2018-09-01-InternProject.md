@@ -16,4 +16,4 @@ Mesh is on a mission to fuel conversations, facilitate collaboration, and help i
 ---
 
 # Demo
-<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" width="1280" height="720"  frameborder="0" allowfullscreen> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
