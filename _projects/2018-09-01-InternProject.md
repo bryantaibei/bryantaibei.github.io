@@ -3,10 +3,10 @@ title: 'Onboarding page design for MeshMyCampus'
 subtitle: ''
 date: 2018-09-01 
 description: Build the onboarding screen of the instant communication application for startup company.
-featured_image: '/images/portfolio/2018-09-01-InternProject/MeshLogo.png'
+featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
 ---
 
-![](/images/portfolio/2018-09-01-InternProject/artwork.png)
+![](/images/portfolio/2018-09-01-InternProject/MeshLogo.png)
 
 ## Brief Description
 
