@@ -31,11 +31,10 @@ This project is the cooperation between the MeshMyCampus company and IMS440 Seni
 During the semester, I individually designed the onboarding part of the application and make them adapt to the different platforms such as Laptop, Tablets, and Mobile devices. And I designed the logos and elements in the onboarding page with Riley Riotto.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile1.png">
     <img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png">
 </div>
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingCommunity.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingDM.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingFeed.png">
@@ -48,7 +47,6 @@ During the semester, I individually designed the onboarding part of the applicat
 
 ## Demo
 
-:
 
 
 ---
