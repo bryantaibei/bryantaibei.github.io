@@ -54,7 +54,7 @@ During the semester, I individually designed the onboarding part of the applicat
 
 Check out the demo video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jRicDNm9T44" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NSJlCvN5WA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="http://puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mp4">Click here if YouTube is unaccessible</a>
 
