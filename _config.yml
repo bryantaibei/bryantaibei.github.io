@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 6
+paginate: 3
 paginate_path: "/photography/page:num/"
   
