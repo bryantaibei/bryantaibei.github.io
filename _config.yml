@@ -50,6 +50,4 @@ plugins:
   - jekyll-sitemap
 
 paginate: 3
-paginate_path: "/photography/page:num/"
-
-paginatepath: ['/page/:num'] 
+paginate_path: "page:num"
