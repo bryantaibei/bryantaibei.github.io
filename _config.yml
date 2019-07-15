@@ -51,5 +51,4 @@ plugins:
 
 paginate: 3
 paginate_path: "/photography/page:num/"
-paginate_path: "/_projects/page:num"
   
