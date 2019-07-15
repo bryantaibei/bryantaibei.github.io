@@ -32,7 +32,7 @@ During the semester, I individually designed the onboarding part of the applicat
 
 ### Onboarding
 
-<div class="gallery" data-columns="6">
+<div class="gallery" data-columns="7">
 	<img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png">
 </div>
 
