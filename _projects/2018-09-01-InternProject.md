@@ -32,7 +32,7 @@ During the semester, I individually designed the onboarding part of the applicat
 
 ### Onboarding
 
-![](/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png")
+![](/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png)
 
 ### Logo
 
