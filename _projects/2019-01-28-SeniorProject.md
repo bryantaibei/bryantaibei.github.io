@@ -2,7 +2,7 @@
 title: 'Vobot Run - The Digital Game Project'
 subtitle: 'IMS452 Senior Project'
 date: 2019-01-28
-description: For my graduation project, I designed and built a sound-based digital game for visually imparied players. Playing game unlike we used to be.
+description: For my graduation project, I designed and built a sound-based digital game for visually imparied players. Playing game differently.
 featured_image: '/images/portfolio/2019-01-28-SeniorProject/cover.png'
 ---
 
