@@ -28,8 +28,6 @@ The objective of my project it designing and developing a digital game that is f
 
 ## The Build
 
----
-
 ### Unity Engine
 
 <div class="gallery" data-columns="1">
@@ -49,7 +47,6 @@ During the semester, I’ve done a lot of works on learning unity engine and C# 
 Making music is always one of my favorite things. For this project, I have made two sound tracks for the different purpose. One is the background music with surrounding sound effects when you play my game. The other one is the theme music for the ending scene that I have used the same chord as the in game background music and extend it into a complete EDM genre song.
 
 ---
-
 
 > “Making games is hard” 
  —— Shigeru Miyamoto
