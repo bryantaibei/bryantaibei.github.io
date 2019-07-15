@@ -1,6 +1,6 @@
 ---
 title: 'IMS259 Illustrator LowPoly'
-subtitle: 'The first major class of my college life'
+subtitle: 'IMS 259 Art & Digital Tools'
 date: 2015-09-27 00:00:00
 description: Using Illustrator to create an low-poly styled art work.
 featured_image: '/images/portfolio/2015-10-29-IllustratorLowPoly/cover.png'

@@ -1,6 +1,6 @@
 ---
 title: 'IMS259 Photoshop Surreal'
-subtitle: 'The first major class of my college life'
+subtitle: 'IMS 259 Art & Digital Tools'
 date: 2015-09-27 00:00:00
 description: Using PhotoShop to create an art work that presenting a surreal topic.
 featured_image: '/images/portfolio/2015-09-27-PhotoshopSurreal/cover.png'
