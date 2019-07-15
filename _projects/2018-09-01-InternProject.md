@@ -56,4 +56,6 @@ Check out the demo video:
 
 <iframe src="puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+<a href="puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mp4">Click here if YouTube is unaccessible</a>
+
 ---
