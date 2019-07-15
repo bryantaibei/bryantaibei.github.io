@@ -52,7 +52,7 @@ Making music is always one of my favorite things. For this project, I have made 
 
 
 > “Making games is hard” 
-> Shigeru Miyamoto
+——Shigeru Miyamoto
 
 ---
 
