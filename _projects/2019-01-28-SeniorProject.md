@@ -3,7 +3,7 @@ title: 'Digital Game Designed For Visually Impaired Players'
 subtitle: 'IMS452 Senior Project'
 date: 2019-01-28
 description: For my graduation project, I designed and built a digital game for visually imparied players.
-featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
+featured_image: '/images/portfolio/2019-01-28-SeniorProject/cover.png'
 ---
 
 
@@ -52,6 +52,6 @@ During the semester, I individually designed the onboarding part of the applicat
 
 ## Demo
 
-<iframe src="http://puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mov" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
