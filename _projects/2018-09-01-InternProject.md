@@ -8,8 +8,7 @@ featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
 
 ![](/images/portfolio/2018-09-01-InternProject/MeshLogo.png)
 
-## Brief Description
+# Background
 
 This is my Illustrator assignment of lowpoly styled artwork. Presenting a cute panda in polygons 
 
-Bryan Tai                                                                                
