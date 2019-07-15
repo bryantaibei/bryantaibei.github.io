@@ -24,7 +24,11 @@ What is the inital impression of the digital games when we talk about it. A real
 
 The objective of my project it designing and developing a digital game that is friendly to the visually impaired gamer. 👉A endless runner game just like the subway surfer but have the unique mechanics that using stereo sound to dodge the obstacles, collect supplies and survive as long as possible.
 
+---
+
 ## The Build
+
+---
 
 ### Unity Engine
 
@@ -44,11 +48,13 @@ During the semester, I’ve done a lot of works on learning unity engine and C# 
 
 Making music is always one of my favorite things. For this project, I have made two sound tracks for the different purpose. One is the background music with surrounding sound effects when you play my game. The other one is the theme music for the ending scene that I have used the same chord as the in game background music and extend it into a complete EDM genre song.
 
-### Game Mechanic
+---
 
- 
 
-> “Making games is hard” - Shigure Miyamoto
+> “Making games is hard” 
+> - Shigure Miyamoto
+
+---
 
 ## The Process
 
@@ -63,6 +69,12 @@ Then I applied the new things that I have learnt into my game to make it looks l
 ### Phase 3 Creating
 
 And finally, I combined the knowledges that I already have on music and the new things together to complete my goal and create a digital game for visually impaired players. I love the all of them. Every process to me is a good thing. And lead me to the success.
+
+---
+
+# Game Mechanic
+
+
 
 ---
 
