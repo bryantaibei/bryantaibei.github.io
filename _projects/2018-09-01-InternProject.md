@@ -8,7 +8,6 @@ featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
 
 
 
-
 # Background
 
 ![](/images/portfolio/2018-09-01-InternProject/MeshLogo.png)
@@ -17,4 +16,4 @@ Mesh is on a mission to fuel conversations, facilitate collaboration, and help i
 ---
 
 # Demo
-<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" width="640" height="360"  frameborder="0" allowfullscreen> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" width="1280" height="720"  frameborder="0" allowfullscreen> </iframe>
