@@ -8,7 +8,7 @@ featured_image: '/images/portfolio/2018-09-01-InternProject/cover.png'
 
 
 
-## Background
+## What is MeshMyCampus?
 
 <div class="gallery" data-columns="1">
 	<img src="/images/portfolio/2018-09-01-InternProject/MeshIntro1.png">
@@ -20,9 +20,27 @@ Mesh is on a mission to fuel conversations, facilitate collaboration, and help i
 
 ---
 
+## What does it do with IMS440
+
+This project is the cooperation between the MeshMyCampus company and IMS440 Senior Capstone course at Miami University. The course was lead by the professor Ashely Sieb and the MeshMyCampus project team. The students were separated into teams with different goals based on their own skills. I, as a user experience designer focused student, worked in the product design and user experience team with Josh Bracy, Riley Riotto and Meng Li.
+
+---
+
+## What's my job
+
+During the semester, I individually designed the onboarding part of the application and make them adapt to the different platforms such as Laptop, Tablets, and Mobile devices. And I designed the logos and elements in the onboarding page with Riley Riotto.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/portfolio/2018-09-01-InternProject/MeshIntro1.png">
+	<img src="/images/portfolio/2018-09-01-InternProject/MeshIntro2.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/MeshIntro3.png">
+</div>
+
+---
+
 ## Demo
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+:
 
 
 ---
