@@ -78,7 +78,7 @@ Check out the demo video:
 
 # Play it!
 
-<a href="http://puo51diay.bkt.clouddn.com/Demo%20Day%20Final.mp4">Download the Game and Have fun!</a>
+<a href="http://puo51diay.bkt.clouddn.com/Vobot%20Run.zip">Download the Game and Have fun!</a>
  (Headphone recommended)
 
 ---
