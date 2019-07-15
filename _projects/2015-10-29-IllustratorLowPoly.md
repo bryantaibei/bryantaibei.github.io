@@ -1,5 +1,5 @@
 ---
-title: 'IMS259 Illustrator LowPoly'
+title: 'Illustrator LowPoly'
 subtitle: 'IMS 259 Art & Digital Tools'
 date: 2015-09-27 00:00:00
 description: Using Illustrator to create an low-poly styled art work.

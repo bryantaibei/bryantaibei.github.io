@@ -1,5 +1,5 @@
 ---
-title: 'IMS259 Photoshop Surreal'
+title: 'Photoshop Surreal'
 subtitle: 'IMS 259 Art & Digital Tools'
 date: 2015-09-27 00:00:00
 description: Using PhotoShop to create an art work that presenting a surreal topic.
