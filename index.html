@@ -48,4 +48,21 @@ featured_image: /images/demo/demo-home.jpeg
 
 	</div>
 
+	<div class="more-title" style="border-top: 1px solid #DAE2F2;">
+		<h2>More Projects</h2>
+	  </div>
+	  <ul class="tags" id="tags"></ul>
+	  <ul class="covers more-covers" id="all-covers">{% assign posts=site.posts | where:"lang", page.lang | where:"category", page.list %}{% for post in posts %}{% if post.front-wide == null and post.hide == null %}{% capture tags %}{% for tag in post.tags %}tag-{{ tag | downcase | url_encode | replace: "+", "_" | replace: "%2F", "" | replace: "%", "" }} {% endfor %}{% endcapture %}
+		<li class="{{tags}}cover-item" id="{{ post.url | replace: '/', '' | replace: '%', '' }}">
+		  <a href="{{ post.url | prepend: site.baseurl }}">{% capture link %}{{ site.baseurl }}/potato/{{ post.category }}/{{ post.ref }}/{{ post.cover }}{% endcapture %}
+			<img src="{{ link }}" alt="{{ post.category | capitalize }}: {{ post.title }}">
+			<h2 class="title">{{ post.title }}</h2>
+			<p class="short-desc">{{ post.desc }}</p>
+		  </a>
+		</li>{% endif %}{% endfor %}
+	  </ul>
+	  <ul class="covers more-covers" id="selected-covers" style="display: none;"></ul>
+	  <div class="gradient"></div>
+
 </section>
+
