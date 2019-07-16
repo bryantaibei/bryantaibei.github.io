@@ -32,7 +32,26 @@ During the semester, I individually designed the onboarding part of the applicat
 
 ### Onboarding
 
-![](/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png）
+## Workflow
+
+<div class="gallery" data-columns="1">
+    <img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile1.png">
+	<img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png">
+</div>
+
+##Detail
+
+<div class="gallery" data-columns="4">
+    <img src="/images/portfolio/2018-09-01-InternProject/1.png">
+	<img src="/images/portfolio/2018-09-01-InternProject/2.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/3.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/4.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/5.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/6.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/7.png">
+    <img src="/images/portfolio/2018-09-01-InternProject/8.png">
+
+</div>
 
 ### Logo
 
