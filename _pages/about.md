@@ -43,7 +43,6 @@ High School Diploma
 
 <div class="gallery" data-columns="1">
 	<img src="/images/guitarfront.jpg">
-    <img src="/images/playguitar1.jpg">
     <img src="/images/headphone.jpg"> 
 </div>
 
