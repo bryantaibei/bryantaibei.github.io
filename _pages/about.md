@@ -18,11 +18,17 @@ Nice to meet you here! My name is Bryan Tai. And my Chinese name is 台北 ( pro
 ## Educations
 
 2015 - 2018
+
 Miami University
+
 Bachelor of Arts in Interactive Media Studies
 
+---
+
 2012 - 2015
+
 The 2nd High School Attached to Beijing Normal Univeristy
+
 High school diploma
 
 ---
