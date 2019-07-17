@@ -1,5 +1,5 @@
 ---
-title: 'Photoshop Deconstruction/Reconstruction'
+title: 'Photoshop Deconstruction and Reconstruction'
 subtitle: 'IMS 259 Art & Digital Tools'
 date: 2015-09-27 00:00:00
 description: Using PhotoShop to create an artwork that applying deconstruction and reconstruction technics.
