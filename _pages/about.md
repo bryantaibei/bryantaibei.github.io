@@ -1,28 +1,20 @@
 ---
 title: About me
-subtitle: Fun facts about me | 关于台北的故事
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Story of my life | 关于台北的故事
+description: To know something more about me.
 featured_image: /images/demo/about.jpg
 ---
 
 ![](/images/avatar-tb.png)
 
-## Features
+---
 
-We've packed Personal full of powerful features to help showcase your work:
+## Who Is Me?
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Well, My name is Bryan Tai. And my Chinese name is 台北 ( pronounced like 'Tie Bay' ). I was born and grown up in Beijing, China and lived in here for 18 years. After graduating from high school in 2015, I came to the other side of the planet alone to get an undergradate education. The wonderful place that I lived and enjoyed for 4 years is called Miami University which located in Oxford, Ohio, United States of America. I learnt a lot throughout 4 years and find my passion on designing user experience and digital games. Now I'm graduated from college and started my journey to become a unique and  designer.
+
+## Educations
+
+## Interns
+
+## Fun Facts
