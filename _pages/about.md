@@ -17,13 +17,17 @@ Welcome and nice to meet you here! My name is Bryan Tai. And my Chinese name is 
 
 ## Educations
 
+<div class="gallery" data-columns="1">
+	<img src="/images/me.JPG">
+</div>
+
 2015 - 2018
 
 Miami University
 
 Bachelor of Arts in Interactive Media Studies
 
----
+<br>
 
 2012 - 2015
 
@@ -35,10 +39,11 @@ High School Diploma
 
 ## Fun Facts
 
-I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. Gun's N Roses and Green Day are my favorite bands. Let's rock!
-<br>
-Sometimes I love to record the moments:
-<br>
-<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" frameborder="0" allowfullscreen> </iframe>
+<div class="gallery" data-columns="1">
+	<img src="/images/guitarfront.jpg">
+	<img src="/images/guitarback.jpg">
+</div>
+
+I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. Gun's N Roses and Green Day are my favorite bands. Let's rock! <a href="http://puo51diay.bkt.clouddn.com/My%20Movie%202.mp4">Click here to see my vids</a>
 
 ---
