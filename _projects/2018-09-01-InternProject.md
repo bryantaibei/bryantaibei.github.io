@@ -76,3 +76,9 @@ Check out the demo video:
 <a href="http://puo51diay.bkt.clouddn.com/Onboarding_Mobile_Draft2.mp4">Click here if YouTube is unaccessible</a>
 
 ---
+
+<div class="wrap">
+
+<a href="/index.html" class="button button--large">Back</a>
+
+</div>                                                                       

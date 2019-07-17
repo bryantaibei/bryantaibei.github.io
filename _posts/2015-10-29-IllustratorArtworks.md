@@ -14,6 +14,8 @@ featured_image: '/images/portfolio/2015-10-29-IllustratorArtworks/cover.png'
 
 ## Welcome to the gallery of my Illustrator artworks
 
+---
+
 <div class="wrap">
 
 <a href="/portfolio/index.html" class="button button--large">Back</a>

@@ -13,6 +13,8 @@ featured_image: '/images/portfolio/2015-09-27-PhotoshopSurreal/cover.png'
 
 ## Welcome to the gallery of my Photoshop artworks                                                      
 
+---
+
 <div class="wrap">
 
 <a href="/portfolio/index.html" class="button button--large">Back</a>
