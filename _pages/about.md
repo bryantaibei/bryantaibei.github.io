@@ -5,6 +5,8 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
+![](/images/avatar-tb.png)
+
 ## Features
 
 We've packed Personal full of powerful features to help showcase your work:
