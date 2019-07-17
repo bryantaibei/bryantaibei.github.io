@@ -35,12 +35,10 @@ High School Diploma
 
 ## Fun Facts
 
-
-
-I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. Gun's N Roses and Green Day are my 
-
-#### Sometimes I love to record the moments:
-
-<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. Gun's N Roses and Green Day are my favorite bands. Let's rock!
+<br>
+Sometimes I love to record the moments:
+<br>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" frameborder="0" allow="accelerometer; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ---
