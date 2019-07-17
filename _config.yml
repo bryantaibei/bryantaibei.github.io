@@ -49,5 +49,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 3
+paginate: 4
 paginate_path: "/portfolio/page:num/"
