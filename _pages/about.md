@@ -9,7 +9,7 @@ featured_image: /images/demo/about.jpg
 
 ---
 
-## Who Is Me?
+## Who Am I?
 
 <div class="gallery" data-columns="1">
 	<img src="/images/me.JPG">
@@ -19,7 +19,7 @@ Welcome and nice to meet you here! My name is Bryan Tai. And my Chinese name is 
 
 ---
 
-## Educations
+## Education
 
 ![](/images/mu.jpeg)
 
