@@ -43,7 +43,7 @@ High School Diploma
 
 <div class="gallery" data-columns="1">
 	<img src="/images/guitar.jpg">
-    <img src="/images/headphone.JPG"> 
+    <img src="/images/headphone.jpg"> 
 </div>
 
 I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. Gun's N Roses and Green Day are my favorite bands. Let's rock! <a href="http://puo51diay.bkt.clouddn.com/My%20Movie%202.mp4">Click here to see my vids</a>
