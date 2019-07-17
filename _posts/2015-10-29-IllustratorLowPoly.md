@@ -14,6 +14,8 @@ This is my Illustrator assignment of lowpoly styled artwork. Presenting a cute p
 
 Bryan Tai                                                                                
 
+---
+
 <div class="wrap">
 
 <a href="/portfolio/index.html" class="button button--large">Back</a>
