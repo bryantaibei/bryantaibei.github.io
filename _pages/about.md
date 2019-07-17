@@ -29,7 +29,7 @@ Bachelor of Arts in Interactive Media Studies
 
 The 2nd High School Attached to Beijing Normal Univeristy
 
-High school diploma
+High School Diploma
 
 ---
 
@@ -37,6 +37,8 @@ High school diploma
 
 
 
-I'm more than a fan of music. It's part of my life. Playing musics is one of my favorite things to relax.
+I'm more than a fan of music. It's part of my life. Guitar and Piano are my best friends. Even though I'm not a pro，creating and listening to music is still one of my favourite things to relax. 
+
+<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
