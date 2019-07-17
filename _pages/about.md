@@ -39,6 +39,6 @@ I'm more than a fan of music. It's part of my life. Guitar and Piano are my best
 <br>
 Sometimes I love to record the moments:
 <br>
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" frameborder="0" allow="accelerometer; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=43040643&cid=75468572&page=1" frameborder="0" allowfullscreen> </iframe>
 
 ---
