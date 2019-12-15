@@ -78,19 +78,18 @@ Check out the demo video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRicDNm9T44" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="http://puo51diay.bkt.clouddn.com/Demo%20Day%20Final.mp4">Click here if YouTube is unaccessible</a>
 
 ---
 
 ## Play it!
 
-<a href="http://puo51diay.bkt.clouddn.com/Vobot%20Run.zip">Download the Game and Have fun!</a>
+<a href="https://drive.google.com/file/d/1PSyIALavGqDzta_8tGAGYEXuc80b2dor/view?usp=sharing">Download the Game and Have fun!</a>
  (Headphone recommended)
 
 ---
 
 <div class="wrap">
 
-<a href="/index.html" class="button button--large">Back</a>
+<a href="/portfolio/index.html" class="button button--large">Back</a>
 
-</div>                                                                       
+</div>
