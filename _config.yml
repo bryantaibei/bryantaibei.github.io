@@ -6,7 +6,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /photography/:slug
+    permalink: /portfolio/:slug
   projects:
     output: true
     permalink: /portfolio/:slug
