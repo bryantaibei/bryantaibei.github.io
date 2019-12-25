@@ -28,7 +28,7 @@ This project is the cooperation between the MeshMyCampus company and IMS440 Seni
 
 ## What's my job?
 
-During the semester, I individually designed the onboarding part of the application and make them adapt to the different platforms such as Laptop, Tablets, and Mobile devices. And I designed the logos and elements in the onboarding page with Riley Riotto.
+During the semester, I individually designed the onboarding part of the application and make them adapt to the different platforms such as Laptop, Tablets, and Mobile devices. And I designed the logos and elements in the onboarding page.
 
 ### Onboarding
 
