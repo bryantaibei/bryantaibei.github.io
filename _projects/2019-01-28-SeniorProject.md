@@ -24,6 +24,8 @@ What is the initial impression of digital games when we talk about it? A realist
 
 The objective of my project designing and developing a digital game that is friendly to the visually impaired gamer. It is an endless runner game just like the subway surfer but has the unique mechanics that using stereo sound to dodge the obstacles, collect supplies, and survive as long as possible.
 
+---
+
 ## The Build
 
 ### Unity Engine
