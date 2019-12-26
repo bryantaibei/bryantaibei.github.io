@@ -30,7 +30,7 @@ This project is the cooperation between the MeshMyCampus company and the IMS440 
 
 During the semester, I individually designed the onboarding part of the application and made them adapt to different platforms such as laptops, Tablets, and Mobile devices. And I designed the logos and elements in the onboarding page.
 
-### Onboarding
+---
 
 ## Workflow
 
@@ -38,6 +38,8 @@ During the semester, I individually designed the onboarding part of the applicat
     <img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile1.png">
 	<img src="/images/portfolio/2018-09-01-InternProject/OnboardingMobile2.png">
 </div>
+
+---
 
 ## Detail
 
@@ -53,7 +55,9 @@ During the semester, I individually designed the onboarding part of the applicat
 
 </div>
 
-### Logo
+---
+
+## Logo
 
 <div class="gallery" data-columns="4">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingProfile.png">
@@ -62,9 +66,10 @@ During the semester, I individually designed the onboarding part of the applicat
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingGroup.png">
     <img src="/images/portfolio/2018-09-01-InternProject/MeshOnBoardingCommunity.png">
  
-    
+---
     
 </div>
+
 ---
 
 ## Demo
