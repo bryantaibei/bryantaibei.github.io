@@ -10,7 +10,7 @@ featured_image: '/images/portfolio/2015-10-29-IllustratorLowPoly/cover.png'
 
 ## Brief Description
 
-This is my Illustrator assignment of lowpoly styled artwork. Presenting a cute panda in polygons 
+This is my Illustrator assignment of lowpoly styled artwork. I'm presenting a cute panda in polygons 
 
 Bryan Tai                                                                                
 
